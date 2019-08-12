@@ -54,3 +54,37 @@
         }
     }
     ```
+    2. 核心思路是酱紫的,创建一个列表缓存回调函数;当发布者发布时,遍历缓存列表,依次触发回调函数;
+    ```
+    class EventEmitter {
+        constructor() {
+            this.eventList = {};
+        }
+        on(key,fnc) {
+            if(!this.eventList[key]) {
+                this.eventList[key] = [];
+            }
+            this.eventList[key].push(fnc);
+        }
+        emit() {
+            let key = Array.prototype.shift.call(arguments),
+            fns = this.eventList[key];
+            fns.forEach(fn => {
+                fn.apply(null,arguments);
+            })
+        }
+        off(key, fn) {
+            let fns = this.eventList[key];
+            if(!fns) {
+                return false;
+            }
+            else {
+                fns.forEach((_fn, index) => {
+                    if(_fn === fn) {
+                        fns.splice(index,1);
+                    }
+                })
+            }
+        }
+    }
+    ```
