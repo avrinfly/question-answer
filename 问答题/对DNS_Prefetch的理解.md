@@ -1,3 +1,11 @@
+<!--
+ * @Description: 对DNS_Prefetch的理解
+ * @Author: hetengfei
+ * @Github: https://github.com/avrinfly
+ * @Date: 2019-08-17 20:53:37
+ * @LastEditors: hetengfei
+ * @LastEditTime: 2019-08-17 20:53:58
+ -->
 即DNS预获取，属于前端优化的一部分。
 
 一般来说，在前端优化中与NDS有关的有两点：
