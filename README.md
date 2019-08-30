@@ -4,7 +4,7 @@
  * @Github: https://github.com/avrinfly
  * @Date: 2019-08-27 18:45:16
  * @LastEditors: hetengfei
- * @LastEditTime: 2019-08-29 00:12:05
+ * @LastEditTime: 2019-08-30 22:14:45
  -->
 # 前端面试题
 the Interview_questions of front-end
@@ -13,6 +13,10 @@ the Interview_questions of front-end
 - [对DNS_Prefetch的理解](https://github.com/avrinfly/question-answer/blob/master/%E9%97%AE%E7%AD%94%E9%A2%98/%E5%AF%B9DNS_Prefetch%E7%9A%84%E7%90%86%E8%A7%A3.md)
 - [简单实现深拷贝](https://github.com/avrinfly/question-answer/blob/master/%E7%AE%80%E5%8D%95%E9%97%AE%E7%AD%94%E9%A2%98/%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%B7%B1%E6%8B%B7%E8%B4%9D.md)
 - [伪数组转换为真数组](https://github.com/avrinfly/question-answer/blob/master/%E7%AE%80%E5%8D%95%E9%97%AE%E7%AD%94%E9%A2%98/%E4%BC%AA%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%9C%9F%E6%95%B0%E7%BB%84.md)
+- [vue双向绑定的原理](https://github.com/avrinfly/question-answer/blob/master/%E9%97%AE%E7%AD%94%E9%A2%98/vue%E5%8F%8C%E5%90%91%E7%BB%91%E5%AE%9A%E7%9A%84%E5%8E%9F%E7%90%86.md)
+- [BFC的概念、原理及作用](https://github.com/avrinfly/question-answer/blob/master/%E9%97%AE%E7%AD%94%E9%A2%98/BFC%E7%9A%84%E6%A6%82%E5%BF%B5-%E5%8E%9F%E7%90%86%E5%8F%8A%E4%BD%9C%E7%94%A8.md)
+- [对原型和原型链的理解](https://github.com/avrinfly/question-answer/blob/master/%E9%97%AE%E7%AD%94%E9%A2%98/%E5%AF%B9%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE%E7%9A%84%E7%90%86%E8%A7%A3.md)
+- []
 ## 逻辑题
 - [逻辑题集合1](https://github.com/avrinfly/question-answer/blob/master/%E9%80%BB%E8%BE%91%E9%A2%98/%E9%80%BB%E8%BE%91%E9%A2%98%E9%9B%86%E5%90%881.md)
 ## 手写题
