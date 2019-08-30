@@ -4,7 +4,7 @@
  * @Github: https://github.com/avrinfly
  * @Date: 2019-08-27 18:45:16
  * @LastEditors: hetengfei
- * @LastEditTime: 2019-08-30 22:14:45
+ * @LastEditTime: 2019-08-30 22:16:31
  -->
 # 前端面试题
 the Interview_questions of front-end
@@ -16,7 +16,7 @@ the Interview_questions of front-end
 - [vue双向绑定的原理](https://github.com/avrinfly/question-answer/blob/master/%E9%97%AE%E7%AD%94%E9%A2%98/vue%E5%8F%8C%E5%90%91%E7%BB%91%E5%AE%9A%E7%9A%84%E5%8E%9F%E7%90%86.md)
 - [BFC的概念、原理及作用](https://github.com/avrinfly/question-answer/blob/master/%E9%97%AE%E7%AD%94%E9%A2%98/BFC%E7%9A%84%E6%A6%82%E5%BF%B5-%E5%8E%9F%E7%90%86%E5%8F%8A%E4%BD%9C%E7%94%A8.md)
 - [对原型和原型链的理解](https://github.com/avrinfly/question-answer/blob/master/%E9%97%AE%E7%AD%94%E9%A2%98/%E5%AF%B9%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE%E7%9A%84%E7%90%86%E8%A7%A3.md)
-- []
+- [link和@import的区别](https://github.com/avrinfly/question-answer/blob/master/%E9%97%AE%E7%AD%94%E9%A2%98/link%E5%92%8C%40import%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 ## 逻辑题
 - [逻辑题集合1](https://github.com/avrinfly/question-answer/blob/master/%E9%80%BB%E8%BE%91%E9%A2%98/%E9%80%BB%E8%BE%91%E9%A2%98%E9%9B%86%E5%90%881.md)
 ## 手写题
